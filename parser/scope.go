@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/dop251/goja/ast"
+	"github.com/golang-js/gojs/ast"
 )
 
 type _scope struct {

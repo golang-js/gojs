@@ -10,8 +10,8 @@ node types are concerned) and may change in the future.
 package ast
 
 import (
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
+	"github.com/golang-js/gojs/file"
+	"github.com/golang-js/gojs/token"
 	"github.com/go-sourcemap/sourcemap"
 )
 

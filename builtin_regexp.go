@@ -3,7 +3,7 @@ package goja
 import (
 	"fmt"
 	"github.com/dlclark/regexp2"
-	"github.com/dop251/goja/parser"
+	"github.com/golang-js/gojs/parser"
 	"regexp"
 )
 

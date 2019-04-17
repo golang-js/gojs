@@ -13,7 +13,7 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/dop251/goja"
+	"github.com/golang-js/gojs"
 	"github.com/dop251/goja_nodejs/console"
 	"github.com/dop251/goja_nodejs/require"
 )

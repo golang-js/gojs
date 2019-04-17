@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
+	"github.com/golang-js/gojs/ast"
+	"github.com/golang-js/gojs/file"
+	"github.com/golang-js/gojs/token"
 )
 
 func (self *_parser) parseIdentifier() *ast.Identifier {

@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"strconv"
 
-	js_ast "github.com/dop251/goja/ast"
-	"github.com/dop251/goja/parser"
+	js_ast "github.com/golang-js/gojs/ast"
+	"github.com/golang-js/gojs/parser"
 )
 
 const (

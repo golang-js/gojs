@@ -10,8 +10,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
+	"github.com/golang-js/gojs/file"
+	"github.com/golang-js/gojs/token"
 	"unicode/utf16"
 )
 

@@ -2,7 +2,7 @@ package goja
 
 import (
 	"bytes"
-	"github.com/dop251/goja/parser"
+	"github.com/golang-js/gojs/parser"
 	"golang.org/x/text/collate"
 	"golang.org/x/text/language"
 	"golang.org/x/text/unicode/norm"

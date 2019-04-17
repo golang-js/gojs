@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
+	"github.com/golang-js/gojs/ast"
+	"github.com/golang-js/gojs/file"
 )
 
 func firstErr(err error) error {

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dop251/goja/ast"
+	"github.com/golang-js/gojs/ast"
 )
 
 func marshal(name string, children ...interface{}) interface{} {

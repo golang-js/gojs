@@ -2,8 +2,8 @@ package goja
 
 import (
 	"fmt"
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
+	"github.com/golang-js/gojs/ast"
+	"github.com/golang-js/gojs/file"
 	"sort"
 	"strconv"
 )

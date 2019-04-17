@@ -2,9 +2,9 @@ package goja
 
 import (
 	"fmt"
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
+	"github.com/golang-js/gojs/ast"
+	"github.com/golang-js/gojs/file"
+	"github.com/golang-js/gojs/token"
 	"regexp"
 )
 
